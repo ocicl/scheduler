@@ -1,0 +1,10 @@
+* scheduler
+
+Extensible Scheduler written in Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/endsec/scheduler.git   |
+| commit  | e305f8d  |
+| systems | scheduler |
+|---------+-------------------------------------------|
+
